@@ -113,7 +113,7 @@ public class RHardware {
     static final double FINGER_CAPSTONE = 0.4;
 
     static final double TAIL_UP = 0.78;
-    static final double TAIL_DOWN = 0.35;
+    static final double TAIL_DOWN = 0.30;
 
     static final double ARM_PICK_INCH = 3.5;
     static final double ARM_PINION_DIAMETER_INCHES = 20.8/25.4;
